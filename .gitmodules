@@ -1,4 +1,4 @@
 [submodule "external/catch"]
 	path = external/catch
-	url = https://github.com/jonmagic/Catch2
+	url = https://garage.github.com/jonmagic/Catch2
 	branch = master
